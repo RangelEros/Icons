@@ -1,0 +1,17 @@
+<svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="12" cy="12" r="11" fill="none" stroke="rgb(79, 223, 237)" stroke-width="2">
+    <animate attributeName="stroke-width" values="1;2;1" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+  </circle>
+  <rect x="10.5" y="4" width="3" height="16" fill="rgb(79, 223, 237)" rx="1.5" ry="1.5">
+    <animate attributeName="height" values="16;12;16" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+    <animate attributeName="y" values="4;6;4" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+  </rect>
+  <rect x="6" y="8" width="3" height="8" fill="rgb(79, 223, 237)" rx="1.5" ry="1.5">
+    <animate attributeName="height" values="8;4;8" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+    <animate attributeName="y" values="8;10;8" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+  </rect>
+  <rect x="15" y="8" width="3" height="8" fill="rgb(79, 223, 237)" rx="1.5" ry="1.5">
+    <animate attributeName="height" values="8;4;8" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+    <animate attributeName="y" values="8;10;8" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
+  </rect>
+</svg>
