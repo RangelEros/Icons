@@ -11,12 +11,12 @@
 
       // Example function to extract color from BBCode string
       function getColorFromBBCode(bbcode) {
-        var match = bbcode.match(/\[color=#([0-9A-Fa-f]{6})\]/);
+        var match = bbcode.match(/\[img\]https:\/\/[^\]]+\/[^\]]+color=([0-9A-Fa-f]{6})[^\[]*\[\/img\]/);
         return match ? '#' + match[1] : null;
       }
 
       // Example BBCode input
-      var bbcode = "[color=#6A62DD]https://raw.githubusercontent.com/RangelEros/Icons/f148367813a3eea1b44ad93b4701ef1fba244e55/icon_mania_2.svg[/color]";
+      var bbcode = "[img]https://raw.githubusercontent.com/RangelEros/Icons/f148367813a3eea1b44ad93b4701ef1fba244e55/icon_mania_2.svg?color=6A62DD[/img]";
       var newColor = getColorFromBBCode(bbcode);
 
       if (newColor) {
