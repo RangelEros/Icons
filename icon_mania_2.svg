@@ -14,56 +14,56 @@
     <animate 
         attributeName="stroke" 
         from="white" 
-        to="rgb(230, 74, 151)" 
+        to="rgb(106, 98, 221)" 
         dur="2s" 
         begin="0s"
         repeatCount="indefinite"
-        values="white;rgb(230, 74, 151);rgb(230, 74, 151)" 
+        values="white;rgb(106, 98, 221);rgb(106, 98, 221)" 
         keyTimes="0;0.5;1"
         keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
         calcMode="spline" />
   </circle>
-  <rect x="57" y="31" width="14" height="66" rx="8" ry="8" fill="rgb(230, 74, 151)">
+  <rect x="57" y="31" width="14" height="66" rx="8" ry="8" fill="rgb(106, 98, 221)">
     <animate attributeName="height" values="66;52;66" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate attributeName="y" values="31;39;31" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate 
             attributeName="fill" 
             from="white" 
-            to="rgb(230, 74, 151)" 
+            to="rgb(106, 98, 221)" 
             dur="2s" 
             begin="0s" 
             repeatCount="indefinite"
-            values="white;rgb(230, 74, 151);rgb(230, 74, 151)" 
+            values="white;rgb(106, 98, 221);rgb(106, 98, 221)" 
             keyTimes="0;0.5;1"
             keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
             calcMode="spline" />
   </rect>
-  <rect x="37" y="46" width="14" height="36" rx="8" ry="8" fill="rgb(230, 74, 151)">
+  <rect x="37" y="46" width="14" height="36" rx="8" ry="8" fill="rgb(106, 98, 221)">
     <animate attributeName="height" values="36;18;36" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate attributeName="y" values="46;55;46" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate 
             attributeName="fill" 
             from="white" 
-            to="rgb(230, 74, 151)" 
+            to="rgb(106, 98, 221)" 
             dur="2s" 
             begin="0s" 
             repeatCount="indefinite"
-            values="white;rgb(230, 74, 151);rgb(230, 74, 151)" 
+            values="white;rgb(106, 98, 221);rgb(106, 98, 221)" 
             keyTimes="0;0.5;1"
             keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
             calcMode="spline" />
   </rect>
-  <rect x="77" y="46" width="14" height="36" rx="8" ry="8" fill="rgb(230, 74, 151)">
+  <rect x="77" y="46" width="14" height="36" rx="8" ry="8" fill="rgb(106, 98, 221)">
     <animate attributeName="height" values="36;18;36" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate attributeName="y" values="46;55;46" dur="2s" repeatCount="indefinite" keyTimes="0; 0.5; 1"/>
     <animate 
             attributeName="fill" 
             from="white" 
-            to="rgb(230, 74, 151)" 
+            to="rgb(106, 98, 221)" 
             dur="2s" 
             begin="0s" 
             repeatCount="indefinite"
-            values="white;rgb(230, 74, 151);rgb(230, 74, 151)" 
+            values="white;rgb(106, 98, 221);rgb(106, 98, 221)" 
             keyTimes="0;0.5;1"
             keySplines="0.42 0 0.58 1;0.42 0 0.58 1"
             calcMode="spline" />
